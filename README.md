@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I’m Jana Reddy
 
-<!--
-**Jana-Reddy/Jana-Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BTech CSE (AIML) @ SRM Institute  
+💡 Aspiring AI/ML & Web Developer  
+🌱 Currently learning: Python, Machine Learning, HTML/CSS  
+🚀 Projects coming soon!  
+📫 Reach me: [janareddymopuri14@gmail.com] | LinkedIn (coming soon)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Tech Skills**
+
+- Programming: Python, C
+- Web: HTML, CSS, JS (basic)
+- AI/ML: scikit-learn, pandas (learning stage)
+- Tools: Git, VS Code, Google Colab
+
+---
+
+> ⚡ “Learning by doing – one project at a time.”
