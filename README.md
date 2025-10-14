@@ -4,7 +4,7 @@
 💡 Aspiring AI/ML & Web Developer  
 🌱 Currently learning: Python, Machine Learning, HTML/CSS  
 🚀 Projects coming soon!  
-📫 Reach me: [janareddymopuri14@gmail.com] | LinkedIn (coming soon)
+📫 Reach me: [janareddymopuri14@gmail.com] | LinkedIn : www.linkedin.com/in/janareddymopuri
 
 ---
 
