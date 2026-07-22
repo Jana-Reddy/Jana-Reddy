@@ -1,3 +1,11 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Jana Reddy Profile Banner" src="./light.svg">
+  </picture>
+</div>
+
 ### 👋 Hi, I’m Jana Reddy
 
 🎓 2nd Year BTech CSE (AIML) @ SRM Institute  
