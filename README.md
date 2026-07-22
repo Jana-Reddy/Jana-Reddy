@@ -53,9 +53,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jana-Reddy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jana-Reddy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-Reddy&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jana-Reddy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jana-Reddy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
